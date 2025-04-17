@@ -8,3 +8,8 @@ The mold design to fabricate the valve (shown in Figure 3 of the paper) is avail
 - Valve Membrane Cover.stl
 - Valve Top Base.stl
 - Valve Top Cover.stl
+
+Fusion 360 Links:
+https://a360.co/4lChY9P
+https://a360.co/3EsDT2r
+https://a360.co/4iiSPhu
